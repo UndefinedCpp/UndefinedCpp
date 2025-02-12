@@ -2,13 +2,13 @@
 
 #### About me
 
-- 🌱 I'm UndefinedCpp, and I live in Shanghai, China.
-- ⚡ I will graduate from junior middle school this summer
-- ❤️ I just love **TypeScript**, C++ just restricts me too much (lol)
-- 🔳 I like blockchains, they are the future 
-
-#### Current work
-Working on a machine learning model that does auto-trading in crypto/stock/security market... 
+- 🌏 Shanghai, China
+- 👨 Pronoun: He/Him
+- 🏫 11th Grader (2025)
+- 🎸 Swiftie (2023)
+- 🍕 Food&Cooking&Baking Enthusiast
+- 🐶 Have a pet dog
+- 🤖 Knows Machine Learning & Deep Learning
 
 #### Stats
 
